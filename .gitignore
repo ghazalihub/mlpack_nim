@@ -1,0 +1,7 @@
+mlpack/
+generator/temp_gen
+generator/nim_generator
+nim_mlpack/tests/test_pca
+nim_mlpack/tests/test_pca_data
+*.o
+*.so
